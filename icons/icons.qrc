@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>search_dual.png</file>
+    <file>PP_trans.ico</file>
+    <file>syncplay.png</file>
+  </qresource>
+</RCC>
